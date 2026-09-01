@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="../static/style.css" />
+  </head>
+
+  <body>
+    <main>
+      <h1>Lentil tacos</h1>
+      <table class="recipe">
+        <tr>
+          <td class="ingredient">200g red lentils</td>
+          <td rowspan="1" class="step first">
+            boil in a<br />
+            pot for<br />
+            10 minutes
+          </td>
+
+          <td rowspan="1" colspan="2" class="step">
+            drain them<br />
+            when soft
+          </td>
+
+          <td rowspan="4" class="step">mix</td>
+          <td rowspan="6" class="step">
+            season to<br />
+            taste
+          </td>
+          <td rowspan="7" class="step">
+            combine &<br />
+            wrap the <br />
+            tortillas
+          </td>
+        </tr>
+
+        <tr>
+          <td class="ingredient">1 onion</td>
+          <td rowspan="1" class="step first">chop</td>
+          <td rowspan="1" class="step">
+            add to the<br />
+            heated pan<br />
+            until fragrant
+          </td>
+          <td rowspan="2" class="step">
+            mix &<br />
+            cook until<br />
+            soft
+          </td>
+        </tr>
+        <tr>
+          <td class="ingredient">1 red bell pepper</td>
+          <td rowspan="1" colspan="3" class="step first">cut</td>
+        </tr>
+        <tr>
+          <td class="ingredient">1 can of corn</td>
+          <td rowspan="1" colspan="4" class="step first"></td>
+        </tr>
+        <tr>
+          <td class="ingredient">1 tsp sweet paprika</td>
+        </tr>
+        <tr>
+          <td class="ingredient">1 tsp cumin</td>
+          <td rowspan="1" colspan="6" class="step top"></td>
+        </tr>
+        <tr>
+          <td class="ingredient">6 wheat tortillas</td>
+          <td rowspan="1" colspan="4" class="step top"></td>
+          <td rowspan="1" class="step top">heat</td>
+        </tr>
+      </table>
+    </main>
+  </body>
+</html>
